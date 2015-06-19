@@ -1,0 +1,6 @@
+.transition-mc {
+  -webkit-transition: all 300ms ease-in;
+  -o-transition: all 300ms ease-in;
+  transition: all 300ms ease-in; }
+
+/*# sourceMappingURL=mixins.css.map */
